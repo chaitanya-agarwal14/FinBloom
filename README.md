@@ -1,6 +1,6 @@
 # FinBloom: Knowledge Grounding Large Langage Model with Real-Time Financial Data
 
-Finbloom is a Machine Learning framework that empowers Large Language Models to provide accurate answers to diverse financial queries by dynamically sourcing and integrating relevant real-time and historical financial data.
+Finbloom is a Machine Learning framework that empowers Large Language Models to provide accurate answers to diverse natural language financial queries by dynamically sourcing and integrating relevant real-time and historical financial data.
 
 ## Features
 
